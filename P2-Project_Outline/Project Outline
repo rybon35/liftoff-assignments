@@ -1,0 +1,29 @@
+Overview
+Have you ever looked through your fridge and thought, “This food is about to go bad, what can I make with this”? Have you said to yourself “I can’t grocery shop until payday comes, how can I make do with what I have here?”. This web app is intended to reduce food waste, stretch the dollar for all those who are budget conscious, and inspire creativity in the kitchen. 
+Users can add their already owned pantry, refrigerator, and freezer items into their profile. With that information in their profile, recipes will be generated for them based on the food accessible to them already in their kitchen.
+This idea came from a group partner as we were brainstorming ideas. 
+
+Features
+The features we intend to use are:
+User Login
+A user enters their name, email, and password. This manages their pantry and their profile manages their ‘favorites’.
+Search Function
+Users can search for foods to add to their pantry after they go grocery shopping
+Recipe Generation
+Recipes will be curated through the ingredients in the user's pantry and instructions on how to cook each recipe. We want the recipes and instructions to be done in the app and not outsourced to other websites.
+Favorites/Notes
+Users can Favorite recipes and add them to their Recipe Book. Users can almost make notes for each recipe as well. 
+
+Technologies
+HTML
+CSS
+JavaScript
+Angular
+Firebase
+MySQL
+
+What I’ll Have to Learn
+For this app, I want to become comfortable with API’s and Firebase. I want to know more about Firebase because I heard that it may help us with User Authentication. We are going to need to use an API to pull 1000’s of recipes into our app. Figuring out how to do this will take some learning. I’m also wanting to be proficient enough in Angular since website building is something that I want to pursue after Liftoff. Learning about the deployment of apps and how they can be accessed by the general public is something i'm excited to learn about.
+
+Project Tracker
+https://trello.com/b/24T0m6aq/lift-off-q1
